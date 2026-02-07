@@ -12,8 +12,7 @@ Designing experiences • Developing solutions • Discovering insights
 
 ## Who Am I
 
-I am an MCA student passionate about building digital products that combine **beautiful design, smart development, and data-driven thinking**. I enjoy turning ideas into real applications with a strong focus on usability and performance.
-
+I am an MCA student passionate about building AI-powered web development, with strong expertise in data analysis and UI/UX design, along with knowledge of DevOps and cloud technologies, focused on building smart, scalable, user-centric applications.
 ---
 
 ## My Focus Areas
