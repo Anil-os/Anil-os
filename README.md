@@ -2,7 +2,7 @@
 
 # Anil Kumar H
 
-### Web Developer • UI/UX Designer • Data Analytics • DevOps Enthusiast
+### Web Developer • UI/UX Designer • Data Analyst • Cloud & DevOps
 
 Designing experiences • Developing solutions • Discovering insights
 
