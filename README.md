@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Anil Kumar H
+# Anil Kumar H
 
 ### Web Developer • UI/UX Designer • Data Analytics • DevOps Enthusiast
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 🌟 Who Am I
+## Who Am I
 
 I am an MCA student passionate about building digital products that combine **beautiful design, smart development, and data-driven thinking**. I enjoy turning ideas into real applications with a strong focus on usability and performance.
 
 ---
 
-## 🎯 My Focus Areas
+## My Focus Areas
 
 * Creating modern and responsive **web applications**
 * Designing intuitive **UI/UX experiences**
@@ -26,31 +26,31 @@ I am an MCA student passionate about building digital products that combine **be
 
 ---
 
-## 🧩 Skill Universe
+## Skill Universe
 
-### 💻 Web & Development
+### Web & Development
 
 HTML • CSS • JavaScript • Next.js • Tailwind • Responsive UI
 
-### 🎨 UI/UX Design
+### UI/UX Design
 
 Figma • Wireframing • Prototyping • Design Systems • User Research
 
-### 📊 Data & AI
+### Data & AI
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Machine Learning
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 
 Git • GitHub • Linux Basics • Deployment Concepts
 
-### 📈 Visualization
+### Visualization
 
 Power BI • Tableau • Excel
 
 ---
 
-## 🚀 What I’ve Built
+## What I’ve Built
 
 ### Dora AI Copilot
 
@@ -66,7 +66,7 @@ Worked on cleaning datasets, performing EDA, and building visual reports to supp
 
 ---
 
-## 🧪 Internship Journey
+## Internship Journey
 
 **Deloitte – Data Analytics Virtual Internship (Forage)**
 
@@ -82,14 +82,14 @@ Worked on cleaning datasets, performing EDA, and building visual reports to supp
 
 ---
 
-## 🏅 Certifications Snapshot
+## Certifications Snapshot
 
 GenAI – BCGX • AI Foundations – Oracle • Cybersecurity – Deloitte & Tata •
 Software Engineering – Accenture • Cloud Architecture – AWS • Google Cloud – Simplilearn
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 * GitHub: [https://github.com/Anil-os](https://github.com/Anil-os)
 * Email: [anil.kumar.devv@gmail.com](mailto:anil.kumar.devv@gmail.com)
@@ -101,4 +101,3 @@ Software Engineering – Accenture • Cloud Architecture – AWS • Google Clo
 ### “Creativity in Design • Logic in Code • Insight in Data”
 
 </div>
-
