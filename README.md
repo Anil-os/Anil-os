@@ -4,7 +4,7 @@
 
 ### Web Developer • UI/UX Designer • Data Analytics • DevOps Enthusiast
 
-> Designing experiences • Developing solutions • Discovering insights
+Designing experiences • Developing solutions • Discovering insights
 
 </div>
 
